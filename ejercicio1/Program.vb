@@ -9,6 +9,11 @@ Imports System
 
 Module Program
     Sub Main(args As String())
+        Console.BackgroundColor = ConsoleColor.White
+        Console.ForegroundColor = ConsoleColor.Red
+        Console.Clear()
+
+
         Console.WriteLine("Hello World!")
     End Sub
 End Module
