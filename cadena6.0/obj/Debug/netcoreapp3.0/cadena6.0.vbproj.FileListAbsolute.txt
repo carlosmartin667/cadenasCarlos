@@ -1,0 +1,10 @@
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\bin\Debug\netcoreapp3.0\cadena6.0.exe
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\bin\Debug\netcoreapp3.0\cadena6.0.deps.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\bin\Debug\netcoreapp3.0\cadena6.0.runtimeconfig.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\bin\Debug\netcoreapp3.0\cadena6.0.runtimeconfig.dev.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\bin\Debug\netcoreapp3.0\cadena6.0.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\bin\Debug\netcoreapp3.0\cadena6.0.pdb
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\obj\Debug\netcoreapp3.0\cadena6.0.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\obj\Debug\netcoreapp3.0\cadena6.0.AssemblyInfo.vb
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\obj\Debug\netcoreapp3.0\cadena6.0.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6.0\obj\Debug\netcoreapp3.0\cadena6.0.pdb

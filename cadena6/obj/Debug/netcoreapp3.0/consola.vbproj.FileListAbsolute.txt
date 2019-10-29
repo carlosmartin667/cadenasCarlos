@@ -1,0 +1,10 @@
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\bin\Debug\netcoreapp3.0\consola.exe
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\bin\Debug\netcoreapp3.0\consola.deps.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\bin\Debug\netcoreapp3.0\consola.runtimeconfig.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\bin\Debug\netcoreapp3.0\consola.runtimeconfig.dev.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\bin\Debug\netcoreapp3.0\consola.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\bin\Debug\netcoreapp3.0\consola.pdb
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\obj\Debug\netcoreapp3.0\consola.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\obj\Debug\netcoreapp3.0\consola.AssemblyInfo.vb
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\obj\Debug\netcoreapp3.0\consola.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos\cadena6\obj\Debug\netcoreapp3.0\consola.pdb

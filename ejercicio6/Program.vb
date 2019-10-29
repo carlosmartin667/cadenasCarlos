@@ -1,3 +1,9 @@
+'Ejercicio 6:
+'A partir de un texto:
+'Mostrarlo en pantalla.
+'Encontrar y colorear todas las vocales en rojo.
+
+
 Imports System
 
 Module Program

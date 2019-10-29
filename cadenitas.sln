@@ -3,31 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cadena", "cadenitas\cadena.vbproj", "{CBF6D3B5-729A-4251-90FF-E0265C998790}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "cadena", "cadenitas\cadena.vbproj", "{CBF6D3B5-729A-4251-90FF-E0265C998790}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cadena2", "cadena2\cadena2.vbproj", "{06B4D24D-7A67-4A62-93F7-B3385E641F76}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "cadena2", "cadena2\cadena2.vbproj", "{06B4D24D-7A67-4A62-93F7-B3385E641F76}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cadena3", "cadena3\cadena3.vbproj", "{339FDB5F-31C0-4E3E-BF2F-B167D5B846E3}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "cadena3", "cadena3\cadena3.vbproj", "{339FDB5F-31C0-4E3E-BF2F-B167D5B846E3}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cadena4", "cadena4\cadena4.vbproj", "{92A014C6-4CBF-4643-8078-E53BB2DC5D75}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "cadena4", "cadena4\cadena4.vbproj", "{92A014C6-4CBF-4643-8078-E53BB2DC5D75}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "consola", "cadena6\consola.vbproj", "{CD322A34-6895-4B3D-ACDC-E51A8675FEC9}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "consola", "cadena6\consola.vbproj", "{CD322A34-6895-4B3D-ACDC-E51A8675FEC9}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "consola1", "consola1\consola1.vbproj", "{3F4DF3ED-4CD9-4867-8068-19E46D21F72E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "consola1", "consola1\consola1.vbproj", "{3F4DF3ED-4CD9-4867-8068-19E46D21F72E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ejercicio1", "ejercicio1\ejercicio1.vbproj", "{52409B65-2EF1-4502-AC2A-16402843F347}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ejercicio1", "ejercicio1\ejercicio1.vbproj", "{52409B65-2EF1-4502-AC2A-16402843F347}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ejercicio2", "ejercicio2\ejercicio2.vbproj", "{F72F198A-9C0E-4625-92E3-D5812100E619}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ejercicio2", "ejercicio2\ejercicio2.vbproj", "{F72F198A-9C0E-4625-92E3-D5812100E619}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ejercicio3", "ejercicio3\ejercicio3.vbproj", "{432C5194-EB94-4875-A413-85CF4C5B4A04}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ejercicio3", "ejercicio3\ejercicio3.vbproj", "{432C5194-EB94-4875-A413-85CF4C5B4A04}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ejercicio4", "ejercicio4\ejercicio4.vbproj", "{310A2EAA-FD41-4645-A4C6-61A936589BE0}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ejercicio4", "ejercicio4\ejercicio4.vbproj", "{310A2EAA-FD41-4645-A4C6-61A936589BE0}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ejercicio5", "ejercicio5\ejercicio5.vbproj", "{489C31C9-4095-48A7-AB21-545729A714CE}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ejercicio5", "ejercicio5\ejercicio5.vbproj", "{489C31C9-4095-48A7-AB21-545729A714CE}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ejercicio6", "ejercicio6\ejercicio6.vbproj", "{DFF952ED-7AF7-4BF7-98C5-5B3D7CC3C357}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ejercicio6", "ejercicio6\ejercicio6.vbproj", "{DFF952ED-7AF7-4BF7-98C5-5B3D7CC3C357}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ejercicio7", "ejercicio7\ejercicio7.vbproj", "{F099DD48-C042-46C6-A344-481DFAF04BB8}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ejercicio7", "ejercicio7\ejercicio7.vbproj", "{F099DD48-C042-46C6-A344-481DFAF04BB8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cadena5.0", "cadena5.0\cadena5.0.vbproj", "{C214A088-52B9-4067-A9B1-9EB6C52818BB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cadena6.0", "cadena6.0\cadena6.0.vbproj", "{A147861C-B405-4932-8542-C0A8D096376D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{F099DD48-C042-46C6-A344-481DFAF04BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F099DD48-C042-46C6-A344-481DFAF04BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F099DD48-C042-46C6-A344-481DFAF04BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C214A088-52B9-4067-A9B1-9EB6C52818BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C214A088-52B9-4067-A9B1-9EB6C52818BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C214A088-52B9-4067-A9B1-9EB6C52818BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C214A088-52B9-4067-A9B1-9EB6C52818BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A147861C-B405-4932-8542-C0A8D096376D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A147861C-B405-4932-8542-C0A8D096376D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A147861C-B405-4932-8542-C0A8D096376D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A147861C-B405-4932-8542-C0A8D096376D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
