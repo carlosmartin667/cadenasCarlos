@@ -1,0 +1,10 @@
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\bin\Debug\netcoreapp3.0\ejercicio5.exe
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\bin\Debug\netcoreapp3.0\ejercicio5.deps.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\bin\Debug\netcoreapp3.0\ejercicio5.runtimeconfig.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\bin\Debug\netcoreapp3.0\ejercicio5.runtimeconfig.dev.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\bin\Debug\netcoreapp3.0\ejercicio5.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\bin\Debug\netcoreapp3.0\ejercicio5.pdb
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\obj\Debug\netcoreapp3.0\ejercicio5.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\obj\Debug\netcoreapp3.0\ejercicio5.AssemblyInfo.vb
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\obj\Debug\netcoreapp3.0\ejercicio5.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos\ejercicio5\obj\Debug\netcoreapp3.0\ejercicio5.pdb
