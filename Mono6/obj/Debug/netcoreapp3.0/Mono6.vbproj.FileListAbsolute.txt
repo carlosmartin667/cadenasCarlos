@@ -1,0 +1,10 @@
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\bin\Debug\netcoreapp3.0\Mono6.exe
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\bin\Debug\netcoreapp3.0\Mono6.deps.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\bin\Debug\netcoreapp3.0\Mono6.runtimeconfig.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\bin\Debug\netcoreapp3.0\Mono6.runtimeconfig.dev.json
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\bin\Debug\netcoreapp3.0\Mono6.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\bin\Debug\netcoreapp3.0\Mono6.pdb
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\obj\Debug\netcoreapp3.0\Mono6.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\obj\Debug\netcoreapp3.0\Mono6.AssemblyInfo.vb
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\obj\Debug\netcoreapp3.0\Mono6.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono6\obj\Debug\netcoreapp3.0\Mono6.pdb
