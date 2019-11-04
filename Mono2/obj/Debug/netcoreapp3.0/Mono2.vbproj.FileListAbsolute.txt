@@ -8,3 +8,4 @@ C:\Users\carlo\Source\Repos\cadenasCarlos\Mono2\obj\Debug\netcoreapp3.0\Mono2.As
 C:\Users\carlo\Source\Repos\cadenasCarlos\Mono2\obj\Debug\netcoreapp3.0\Mono2.AssemblyInfo.vb
 C:\Users\carlo\Source\Repos\cadenasCarlos\Mono2\obj\Debug\netcoreapp3.0\Mono2.dll
 C:\Users\carlo\Source\Repos\cadenasCarlos\Mono2\obj\Debug\netcoreapp3.0\Mono2.pdb
+C:\Users\carlo\Source\Repos\cadenasCarlos\Mono2\obj\Debug\netcoreapp3.0\Mono2.vbprojAssemblyReference.cache

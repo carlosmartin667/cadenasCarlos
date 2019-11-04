@@ -13,7 +13,7 @@ Module Module1
         Dim X As Integer
 
         '1.	A partir de un texto:
-        texto = "A la verga me vale verga. Lucho y Marquitos, me la sudan."
+        texto = "A la verga me vale verga. Lucho y Marquitos, me la sudAn."
 
         '2.	Mostrarlo en pantalla.
         Console.WriteLine(texto)
