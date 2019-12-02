@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio2\\ejercicio2.vbproj": {}
+    "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\ejercicio2\\ejercicio2.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio2\\ejercicio2.vbproj": {
+    "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\ejercicio2\\ejercicio2.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio2\\ejercicio2.vbproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\ejercicio2\\ejercicio2.vbproj",
         "projectName": "ejercicio2",
-        "projectPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio2\\ejercicio2.vbproj",
+        "projectPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\ejercicio2\\ejercicio2.vbproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio2\\obj\\",
+        "outputPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://server-bancor:9003/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

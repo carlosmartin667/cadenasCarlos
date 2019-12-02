@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio7\\ejercicio7.vbproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\ejercicio7\\ejercicio7.vbproj",
       "projectName": "ejercicio7",
-      "projectPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio7\\ejercicio7.vbproj",
+      "projectPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\ejercicio7\\ejercicio7.vbproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio7\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\ejercicio7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,7 +32,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://server-bancor:9003/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

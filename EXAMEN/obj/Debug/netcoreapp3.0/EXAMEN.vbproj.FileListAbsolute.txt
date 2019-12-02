@@ -1,0 +1,11 @@
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\bin\Debug\netcoreapp3.0\EXAMEN.exe
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\bin\Debug\netcoreapp3.0\EXAMEN.deps.json
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\bin\Debug\netcoreapp3.0\EXAMEN.runtimeconfig.json
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\bin\Debug\netcoreapp3.0\EXAMEN.runtimeconfig.dev.json
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\bin\Debug\netcoreapp3.0\EXAMEN.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\bin\Debug\netcoreapp3.0\EXAMEN.pdb
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\obj\Debug\netcoreapp3.0\EXAMEN.vbprojAssemblyReference.cache
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\obj\Debug\netcoreapp3.0\EXAMEN.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\obj\Debug\netcoreapp3.0\EXAMEN.AssemblyInfo.vb
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\obj\Debug\netcoreapp3.0\EXAMEN.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos1\EXAMEN\obj\Debug\netcoreapp3.0\EXAMEN.pdb

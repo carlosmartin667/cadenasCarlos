@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\EXAMEN\\EXAMEN.vbproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\EXAMEN\\EXAMEN.vbproj",
       "projectName": "EXAMEN",
-      "projectPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\EXAMEN\\EXAMEN.vbproj",
+      "projectPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\EXAMEN\\EXAMEN.vbproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\EXAMEN\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos1\\EXAMEN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,7 +32,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://server-bancor:9003/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

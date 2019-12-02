@@ -1,0 +1,11 @@
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\bin\Debug\netcoreapp3.0\n1.exe
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\bin\Debug\netcoreapp3.0\n1.deps.json
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\bin\Debug\netcoreapp3.0\n1.runtimeconfig.json
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\bin\Debug\netcoreapp3.0\n1.runtimeconfig.dev.json
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\bin\Debug\netcoreapp3.0\n1.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\bin\Debug\netcoreapp3.0\n1.pdb
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\obj\Debug\netcoreapp3.0\n1.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\obj\Debug\netcoreapp3.0\n1.AssemblyInfo.cs
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\obj\Debug\netcoreapp3.0\n1.dll
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\obj\Debug\netcoreapp3.0\n1.pdb
+C:\Users\carlo\Source\Repos\cadenasCarlos1\n1\obj\Debug\netcoreapp3.0\n1.csprojAssemblyReference.cache
