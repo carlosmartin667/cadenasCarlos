@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+vqMhk+xMfxrf21mG2Fr9WGht+qGXHRAS/PMlPFmeL6ftn47mOvp+jvGEF0IBNHKlwWJ6aZ5vttFYlV6COi1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlo\\Source\\Repos\\cadenasCarlos\\ejercicio4\\ejercicio4.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

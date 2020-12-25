@@ -14,7 +14,7 @@ Module Module1
 
         Console.WriteLine(cad3)
 
-        texto = "Esto es el valor de n = "
+        texto = "Esto es el valor de n : "
         n = texto.Length
 
         Console.WriteLine(texto + CStr(n))
